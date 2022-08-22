@@ -1,1 +1,3 @@
-# Tutorial de git
+# Tutorial de GIT
+
+Introducción al uso de git en desarrollo de software.
