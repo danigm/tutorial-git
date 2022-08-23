@@ -1,6 +1,6 @@
 Fichero con texto de ejemplo.
 
-Aquí puede ir más información.
+Aquí puede ir más información!
 
 Este fichero contiene texto de ejemplo.
 Sólo en mi-rama
