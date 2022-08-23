@@ -1,0 +1,3 @@
+Un merge fast forward se puede hacer cuando en la rama
+a mezclar solo hay commits nuevos, es decir, que las dos
+ramas comparten el mismo padre.
